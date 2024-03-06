@@ -31,8 +31,10 @@
   },
   "type": "module",
   "dependencies": {
+    "@fontsource/dm-serif-display": "^5.0.19",
     "@fontsource/inter": "^5.0.17",
     "@internationalized/date": "^3.5.2",
+    "@sveltejs/adapter-cloudflare": "^4.1.0",
     "bits-ui": "^0.18.1",
     "clsx": "^2.1.0",
     "cmdk-sv": "^0.0.13",
