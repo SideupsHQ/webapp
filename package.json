@@ -31,6 +31,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@fontsource/inter": "^5.0.17",
     "@internationalized/date": "^3.5.2",
     "bits-ui": "^0.18.1",
     "clsx": "^2.1.0",

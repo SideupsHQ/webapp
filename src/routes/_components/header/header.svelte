@@ -7,6 +7,12 @@
         <Button variant="ghost">
             Projects
         </Button>
+        <Button variant="ghost">
+            Community
+        </Button>
+        <Button variant="ghost">
+            About
+        </Button>
     </nav>
 	
 </header>
